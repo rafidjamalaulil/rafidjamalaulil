@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Syed Rafid</h1>
+<h1 align="center">Syed Rafid Jamalaulil</h1>
 <h3 align="center">Computer Science (Software Engineering)</h3>
 
 - 🔭 I’m currently working at **Accenture**
