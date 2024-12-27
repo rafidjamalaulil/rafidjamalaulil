@@ -2,8 +2,6 @@
 <h3 align="center">I'm currently working in Finance and studying Software Engineering at Universiti Teknologi Malaysia</h3>
 
 - 📫 How to reach me **sp-syedrafidjamalaulil@graduate.utm.my**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
