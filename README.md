@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Self Introduction:
 🔭 I’m currently working At Accenture<br>🌱 I’m currently studying at Universiti Teknologi Malaysia<br>💬 I major in Software Engineering<br>⚡ Fun fact - I have a Diploma in Aircraft Engineering and currently working in Finance
 
 
